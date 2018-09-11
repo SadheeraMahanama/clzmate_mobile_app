@@ -30,4 +30,4 @@ const styles = StyleSheet.create({
     },
 });
 
-export default DetailsScreen;
+export default DetailsScreen; 
